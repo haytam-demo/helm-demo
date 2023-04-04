@@ -1,3 +1,9 @@
 {
-  "settingsInheritedFrom": "haytam-demo/whitesource-config@main"
+  "settingsInheritedFrom": "haytam-demo/whitesource-config@main",
+    "scanSettings": {
+    "configMode": "AUTO",
+    "configExternalURL": "",
+    "baseBranches": [],
+    "enableIaC": true
+  }
 }
